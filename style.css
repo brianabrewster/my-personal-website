@@ -4,8 +4,9 @@ body {
     text-align: center;
 }
 figure {
+    float: left;
     display: block;
-    width: 80px;
+    width: 15%;
 }
 figcaption {
     display: block;
