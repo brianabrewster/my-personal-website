@@ -1,3 +1,3 @@
 const h2 = document.createElement("h2")
-h2.textContent = "A Yummy and Nutritious Breakfast Choice"
+h2.textContent = "Meal Ideas with Recipes"
 document.querySelector("body").appendChild(h2)
