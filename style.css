@@ -3,3 +3,12 @@ body {
     color: brown;
     text-align: center;
 }
+figure {
+    display: block;
+    width: 80px;
+}
+figcaption {
+    display: block;
+    width: 180px;
+    text-align: center;
+}
